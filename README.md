@@ -1,6 +1,6 @@
 # Hi, I'm Teddy Gyabaah 👋
 
-Here on Github I build **AI agents and automation systems** that businesses actually use in production.
+Here on Github I build **AI agents, automation systems and Saas Products** that businesses and consumers actually use in production.
 
 My focus: **workflow automation, voice AI, and RAG systems** that deliver measurable ROI. I build solutions that help companies move from AI experimentation to real-world deployment, combining product strategy with hands-on engineering to ship solutions that are usable, compliant, and aligned with business goals.
 
